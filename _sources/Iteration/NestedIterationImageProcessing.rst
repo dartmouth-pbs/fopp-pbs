@@ -159,6 +159,8 @@ intensities.
     :nocodelens:
 
     import image
+
+
     img = image.Image("luther.jpg")
 
     print(img.getWidth())
