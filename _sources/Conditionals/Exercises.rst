@@ -216,7 +216,7 @@ Exercises
 
            .. actex:: ac7_14_8
 
-               Given the lengths of three sides of a triange, determine whether the triangle is right angled. If it is, the assign ``True`` to the variable ``is_rightangled``. If it's not, then assign ``False`` to the variable ``is_rightangled``.
+               Given the lengths of three sides of a triangle, determine whether the triangle is right angled. If it is, the assign ``True`` to the variable ``is_rightangled``. If it's not, then assign ``False`` to the variable ``is_rightangled``.
 
                Hint: floating point arithmetic is not always exactly accurate,
                so it is not safe to test floating point numbers for equality.
