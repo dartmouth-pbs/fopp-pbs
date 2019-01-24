@@ -118,7 +118,7 @@ Exercises
 
         .. tab:: Question
            
-           .. activecode:: ac13_5_3
+           .. actex:: ac13_5_3
 
               The module ``keyword`` determines if a string is a keyword. e.g. ``keyword.iskeyword(s)`` where ``s`` is a string will return either ``True`` or ``False``, depending on whether or not the string is a Python keyword. Import the ``keyword`` module and test to see whether each of the words in list ``test`` are keywords. Save the respective answers in a list, ``keyword_test``.
               ~~~~
@@ -145,7 +145,7 @@ Exercises
 
         .. tab:: Question
            
-           .. activecode:: ac13_5_4
+           .. actex:: ac13_5_4
 
               The ``string`` module provides sequences of various types of Python characters. It has an attribute called ``digits`` that produces the string '0123456789'. Import the module and assign this string to the variable ``nums``. Below, we have provided a list of characters called ``chars``. Using ``nums`` and ``chars``, produce a list called ``is_num`` that consists of tuples. The first element of each tuple should be the character from ``chars``, and the second element should be a Boolean that reflects whether or not it is a Python digit. 
               ~~~~
