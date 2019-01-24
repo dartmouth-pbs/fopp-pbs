@@ -112,7 +112,9 @@ Exercises
                 :identifier: disqus_b9034b274ebe4c55a58c44315ee681a4
 
 
-#.  .. tabbed:: q4
+#.
+
+   .. tabbed:: q4
 
         .. tab:: Question
            
@@ -137,7 +139,9 @@ Exercises
 
 
 
-#.  .. tabbed:: q5
+#.
+
+   .. tabbed:: q5
 
         .. tab:: Question
            
