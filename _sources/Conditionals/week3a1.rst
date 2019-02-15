@@ -95,7 +95,7 @@ Chapter Assessment
     :autograde: unittest
     :practice: T
 
-    Write code that counts the number of words in ``sentence`` that contain *either* an "a" or an "e". Store the result in the variable ``num_a_or_e``.
+    Write code that counts the number of words in ``sentence`` that contains at least one of the letters "a" and "e". Store the result in the variable ``num_a_or_e``.
 
     Note 1: be sure to not double-count words that contain both an a and an e.
 
